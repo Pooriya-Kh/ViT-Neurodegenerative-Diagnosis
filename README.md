@@ -1,3 +1,5 @@
 # ViT-Neurodegenerative-Diagnosis
+Vision Transformer (ViT) for neurodegenerative disorders prediction.
+
 # The repository will be updated soon...!
-Vision Transformer (ViT) for diagnosis of neurodegenerative disorders
+
