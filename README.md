@@ -10,5 +10,5 @@ Please refer to this [link](http://urn.kb.se/resolve?urn=urn:nbn:se:hh:diva-4725
 * Please refer to [ADNI](https://adni.loni.usc.edu/)'s website to download the dataset.
 * Please contact me by [email](mailto:pooriya.khyr@gmail.com) if you have any questions.
 
-# To Do:
+# To Do
 * Improve generalization: try to find a training recipe that is less prone to overfitting.
