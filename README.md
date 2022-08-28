@@ -8,3 +8,8 @@ Please refer to this [link](http://urn.kb.se/resolve?urn=urn:nbn:se:hh:diva-4725
 # Notes
 * We used a third-party module for CNN Grad-CAM implementation. The Grad-CAM codes will be uploaded once we ensure there are no copyright issues.
 * Please refer to [ADNI](https://adni.loni.usc.edu/)'s website to download the dataset.
+* Please contact me by [email](mailto:pooriya.khyr@gmail.com).
+
+# To Do:
+* Improve generalization: try to find a training recipe that is less prone to overfitting.
+* 
