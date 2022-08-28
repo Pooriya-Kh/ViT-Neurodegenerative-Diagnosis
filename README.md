@@ -6,5 +6,5 @@ We propose three ViTs, the best of which obtains an accuracy of 82% on the test 
 Please refer to this [link](http://urn.kb.se/resolve?urn=urn:nbn:se:hh:diva-47250) for the written report.
 
 # Notes
-..*We used a third-party module for CNN Grad-CAM implementation. The Grad-CAM codes will be uploaded once we ensure there are no copyright issues.
-..*Please refer to [ADNI](https://adni.loni.usc.edu/)'s website to download the dataset.
+* We used a third-party module for CNN Grad-CAM implementation. The Grad-CAM codes will be uploaded once we ensure there are no copyright issues.
+* Please refer to [ADNI](https://adni.loni.usc.edu/)'s website to download the dataset.
