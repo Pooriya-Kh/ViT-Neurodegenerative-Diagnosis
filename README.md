@@ -4,3 +4,7 @@ This project aims to develop Vision Transformer ([ViT](https://arxiv.org/abs/201
 We propose three ViTs, the best of which obtains an accuracy of 82% on the test dataset with the help of transfer learning. Also, we encode the AAL brain atlas information into the best performing ViT, so the model outputs the predicted label, the most critical region in its prediction, and overlaid attention map on the input scan with the crucial areas highlighted. Furthermore, we develop two CNN models with 2D and 3D convolutional kernels as baselines to classify NDs, which achieve accuracy of 77% and 73%, respectively, on the test dataset. We also conduct a study to find out the importance of brain regions and their combinations in classifying NDs using ViTs and the AAL brain atlas.
 
 Please refer to this [link](http://urn.kb.se/resolve?urn=urn:nbn:se:hh:diva-47250) for the written report.
+
+# Notes
+-We used a third-party module for CNN Grad-CAM implementation. The Grad-CAM codes will be uploaded once we ensure there are no copyright issues.
+-Please refer to [ADNI](https://adni.loni.usc.edu/)'s website to download the dataset.
